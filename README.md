@@ -14,6 +14,7 @@ Projeto com o objetivo de gerar um ebook utilizando ferramentas de IA e utilizar
 ## Como foi feito ?
 - Conteúdo gerado via ChatGPT (prompt no documents)
 - Imagens geradas via Gemini (prompt no documents)
+- Ebook criado com o PowerPoint (template disponível)
 
 
 # 👩🏻‍💻Desenvolvedor
